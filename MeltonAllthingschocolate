@@ -1,0 +1,31 @@
+{
+	"label": "All things chocolate",
+	"description": "A collection of books to celebrate all things chocolate",
+	"list": [{
+			"label": "How does chococate taste on Everest",
+			"isbns": [
+				"9781526363077"
+			]
+		},
+		{
+			"label": "Charlie and the chocolate factory",
+			"isbns": [
+				"9780141365374"
+			]
+		},
+		{
+			"label": "The ultimate book of chocolate: make your chocolate dreams come true",
+			"isbns": [
+				"9781784883799"
+
+			]
+		},
+		{
+			"label": "Starry skies fover the Chocolate Pot Cafe",
+			"isbns": [
+				"9781838897888"
+			]
+		}
+
+	]
+}
